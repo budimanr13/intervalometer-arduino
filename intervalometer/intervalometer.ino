@@ -150,7 +150,7 @@ void setup()  {
   display.clearDisplay();
   display.drawBitmap(0, 0,  myBitmap, 128, 64, WHITE);
   display.display();
-  delay(1000);
+  delay(0);
 
 }
 void loop()  { 
